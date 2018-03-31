@@ -1,0 +1,25 @@
+/*specialeffects.css*/
+
+
+.menu-item .image img:hover{
+    transition: .3s ease;
+	border-radius: 80%;
+	width:200px;
+	height:200px;
+}
+.menu-item li:hover{
+	padding:10px;
+	color: white;
+	background-color: rgb(66,68,121);
+	margin:1px;
+	font-size:14px;
+	transition: .3s ease;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+
+.title label h3:hover{
+	transform: translateX(180deg);
+	/*text-transform: uppercase;*/
+}
